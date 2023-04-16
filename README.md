@@ -1,4 +1,4 @@
-steps to create a git repo
+steps to create a git repo<br>
 1.create a new repo on github <br>
 2.copy sshURL then git clone it to your computer<br>
 3.cd into ther cloned repo<br>
